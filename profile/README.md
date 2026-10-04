@@ -19,7 +19,6 @@ We are building event-grounded neural embeddings from openly available EEG corpo
 ## Contact
 
 - Press and partnerships: `hello@neurality.dev`
-- Founder: [Yahya Shirazi](https://github.com/neuromechanist)
 
 ---
 

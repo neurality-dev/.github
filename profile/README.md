@@ -14,7 +14,7 @@
 
 Most teams working on electroencephalography (EEG) ship predictions. Neurality ships representations.
 
-We train on the full set of publicly available EEG recordings, at a scale no single dataset provides, and return event-grounded neural embeddings that downstream AI systems fine-tune for their own use cases.
+We are building event-grounded neural embeddings from openly available EEG corpora, so downstream AI systems can use brain activity as context.
 
 ## Contact
 
